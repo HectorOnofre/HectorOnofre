@@ -1,5 +1,14 @@
 ### Hey, nice to see you 👾
 
+```js
+const JHectorOnofre {
+  pronouns: "he" | "his",
+  code: [Java, JavaScript, HTML, CSS],
+  tools: [React, Node],
+  databases: [MySQL, PostreSQL, MariaDB],
+}
+```
+[LinkedIn](https://www.linkedin.com/in/jose-hector-onofre-sansores/)
 <!--
 **HectorOnofre/HectorOnofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
