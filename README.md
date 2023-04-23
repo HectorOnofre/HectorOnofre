@@ -9,8 +9,8 @@ const JHectorOnofre {
   databases: [MySQL, PostreSQL, MariaDB],
 }
 ```
-- 🔭 I’m currently working on creating my personal brand as a software developer
-- 🌱 I’m currently learning Java in the ONE program by Oracle, and Google IT support
+- 🔭 I’m currently working on creating my own projects and my personal brand as a software developer
+- 🌱 I’m currently learning Java in the ONE program by Oracle, and Google IT support certification
 - ⚡ Fun fact: I think I live life in movie metaphors 🎞
 
 ## You can find me 🌎
