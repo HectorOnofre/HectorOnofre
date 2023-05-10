@@ -5,7 +5,7 @@
 const JHectorOnofre {
   pronouns: "he" | "his",
   code: [Java, JavaScript, HTML, CSS],
-  tools: [React, Node],
+  tools: [SpringBoot, Node.js, React],
   databases: [MySQL, PostreSQL, MariaDB],
 }
 ```
